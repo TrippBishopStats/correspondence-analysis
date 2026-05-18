@@ -1,0 +1,9 @@
+---
+title: "Correspondence Analysis"
+format: html
+---
+
+```{r initial setup}
+library(ggplot2)
+```
+
